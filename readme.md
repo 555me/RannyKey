@@ -602,6 +602,53 @@ ___
 | pakchunk-105 | TBD | iOS & iPad OS | CN |
 | pakchunk-106 | TBD | iOS & iPad OS | CN |
 
+## 3.3 (REVERBS FROM THE END OF GALAXIES)
+
+| PAK(s) | AES Key                                                                | Operating System | Server |
+|:------:|------------------------------------------------------------------------|------------------|--------|
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Windows | OS |
+| pakchunk-101 | TBD | Windows | OS |
+| pakchunk-102 | TBD | Windows | OS |
+| pakchunk-103 | TBD | Windows | OS |
+| pakchunk-104 | TBD | Windows | OS |
+| pakchunk-105 | TBD | Windows | OS |
+| pakchunk-106 | TBD | Windows | OS |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Android | OS |
+| pakchunk-101 | TBD | Android | OS |
+| pakchunk-102 | TBD | Android | OS |
+| pakchunk-103 | TBD | Android | OS |
+| pakchunk-104 | TBD | Android | OS |
+| pakchunk-105 | TBD | Android | OS |
+| pakchunk-106 | TBD | Android | OS |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | iOS & iPad OS | OS |
+| pakchunk-101 | TBD | iOS & iPad OS | OS |
+| pakchunk-102 | TBD | iOS & iPad OS | OS |
+| pakchunk-103 | TBD | iOS & iPad OS | OS |
+| pakchunk-104 | TBD | iOS & iPad OS | OS |
+| pakchunk-105 | TBD | iOS & iPad OS | OS |
+| pakchunk-106 | TBD | iOS & iPad OS | OS |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Windows | CN |
+| pakchunk-101 | TBD | Windows | CN |
+| pakchunk-102 | TBD | Windows | CN |
+| pakchunk-103 | TBD | Windows | CN |
+| pakchunk-104 | TBD | Windows | CN |
+| pakchunk-105 | TBD | Windows | CN |
+| pakchunk-106 | TBD | Windows | CN |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Android | CN |
+| pakchunk-101 | TBD | Android | CN |
+| pakchunk-102 | TBD | Android | CN |
+| pakchunk-103 | TBD | Android | CN |
+| pakchunk-104 | TBD | Android | CN |
+| pakchunk-105 | TBD | Android | CN |
+| pakchunk-106 | TBD | Android | CN |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | iOS & iPad OS | CN |
+| pakchunk-101 | TBD | iOS & iPad OS | CN |
+| pakchunk-102 | TBD | iOS & iPad OS | CN |
+| pakchunk-103 | TBD | iOS & iPad OS | CN |
+| pakchunk-104 | TBD | iOS & iPad OS | CN |
+| pakchunk-105 | TBD | iOS & iPad OS | CN |
+| pakchunk-106 | TBD | iOS & iPad OS | CN |
+
 To decrypt the new video PAKs added since version 3.2, please refer to the [Important Note](https://github.com/ClostroOffi/wuwa-aes-archive/#important-note) section.
 
 ___
