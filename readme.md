@@ -16,6 +16,17 @@ Once these fields are filled, FModel will automatically fetch and apply the requ
 
 Big thank you [555me](https://github.com/555me) for providing and maintaining these keys!
 
+### Side Note for above
+
+Video keys are also available here, organized by platform and region. You can use...
+
+* `https://raw.githubusercontent.com/Rannytheory/wuwa-aes-archive/refs/heads/main/keys/Windows/overseas_keys.json` for PC (overseas)
+* `https://raw.githubusercontent.com/Rannytheory/wuwa-aes-archive/refs/heads/main/keys/Windows/cn_keys.json` for PC (CN)
+
+Expression is the same as above (`$.['mainKey','dynamicKeys']`)
+
+For platforms, replace the `Windows` in the URL with `Android` or `iOS` as needed.
+
 ___
 
 ## 0.1.0 (Technical Test)
