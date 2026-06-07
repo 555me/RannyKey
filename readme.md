@@ -672,6 +672,31 @@ ___
 | pakchunk-107 | 0x933F226ABB4B69F4609C6D74D60D89306DB94D733454A87E226BC252205FD0ED | iOS & iPad OS | CN |
 | pakchunk-108 | 0x3A0664EF7EE315C53071DA98FCF4FD2B42F97F770D5EDAA45D3677D9D50CE7E4 | iOS & iPad OS | CN |
 
+## 3.4 (THE DREAM NOT DREAMED)
+
+*Note: Refer to previous versions for pak101-108 keys*
+
+| PAK(s) | AES Key                                                                | Operating System | Server |
+|:------:|------------------------------------------------------------------------|------------------|--------|
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Windows | OS |
+| pakchunk-109 | 0x62FA7E2DB972853ABF3266406383BFC3D307EB63640920591D2D1461A8FB4266 | Windows | OS |    
+| pakchunk-110 | TBD | Windows | OS |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Android | OS |
+| pakchunk-109 | 0x3D7D7D94DD9E73666B20DA90285DECE3CDB7FB4A0D17444F81619A3F8918424A | Android | OS |
+| pakchunk-110 | TBD | Android | OS |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | iOS & iPad OS | OS |
+| pakchunk-109 | 0x31FE101AAB1D2A1EFA7908F2E61FDE1E21E86ABA828B602CF2F3E2E4F551F4D2 | iOS & iPad OS | OS |
+| pakchunk-110 | TBD | iOS & iPad OS | OS |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Windows | CN |
+| pakchunk-109 | TBD | Windows | CN |
+| pakchunk-110 | TBD | Windows | CN |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Android | CN |
+| pakchunk-109 | TBD | Android | CN |
+| pakchunk-110 | TBD | Android | CN |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | iOS & iPad OS | CN |
+| pakchunk-109 | TBD | iOS & iPad OS | CN |
+| pakchunk-110 | TBD | iOS & iPad OS | CN |
+
 To decrypt the new video PAKs added since version 3.2, please refer to the [Important Note](https://github.com/ClostroOffi/wuwa-aes-archive/#important-note) section.
 
 ___
